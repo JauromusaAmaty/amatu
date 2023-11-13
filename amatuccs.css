@@ -1,0 +1,12 @@
+body{
+    color:crimson; background-color: blueviolet;
+            }
+     h1{ color:darkgreen;
+        
+    }
+    div{
+        width:100%;
+        height:70%;
+       background-color: chocolate;
+       background-image:url('khairat.jpg');
+    }
